@@ -1,0 +1,2 @@
+1) In planar data classification mistake in "compute cost" function
+2)In Building your deep neural network step by step mistake in,"L_model_backward" function
